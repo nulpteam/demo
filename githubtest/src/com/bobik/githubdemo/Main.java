@@ -1,6 +1,6 @@
 package com.bobik.githubdemo;
 /**
- * repo
+ * 
  * @author Bobik
  *
  */
@@ -14,5 +14,12 @@ public class Main {
 	 public String toString()
 	 {
 		 return "Privet Bogdan!";
+	 }
+	 public void MyFunc(String[] s)
+	 {
+		 for(String d : s)
+		 {
+			 System.out.println(d);
+		 }
 	 }
 }
