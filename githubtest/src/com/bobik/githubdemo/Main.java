@@ -6,4 +6,9 @@ public class Main {
 	 {
 	 	return i;
 	 }
+
+	 public String toString()
+	 {
+		 return "";
+	 }
 }
