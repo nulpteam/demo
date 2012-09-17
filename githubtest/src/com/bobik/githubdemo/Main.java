@@ -15,4 +15,11 @@ public class Main {
 	 {
 		 return "Privet Bogdan!";
 	 }
+	 public void MyFunc(String[] s)
+	 {
+		 for(String d : s)
+		 {
+			 System.out.println(d);
+		 }
+	 }
 }
