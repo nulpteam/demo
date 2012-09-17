@@ -8,4 +8,15 @@ public class Main {
 	/**
 	 * and my too
 	 */
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 public int get MyInt(int i)
+	 {
+	 	return i;
+	 }
 }
