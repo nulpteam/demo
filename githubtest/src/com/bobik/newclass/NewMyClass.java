@@ -3,6 +3,6 @@ package com.bobik.newclass;
 public class NewMyClass {
 
 	NewMyClass() {
-		System.out.println("blabal");
+		System.out.println("klgjdfgklhdfkgjhdfgkjdfhgkl");
 	}
 }
