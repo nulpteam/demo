@@ -22,4 +22,13 @@ public class Main {
 			 System.out.println(d);
 		 }
 	 }
+	 
+	 
+	 
+	 
+	 
+	 public void KOSTA2206()
+	 {
+		 
+	 }
 }
