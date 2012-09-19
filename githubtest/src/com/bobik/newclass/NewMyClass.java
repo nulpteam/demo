@@ -6,4 +6,3 @@ public class NewMyClass {
 		System.out.println("klgjdfgklhdfkgjhdfgkjdfhgkl");
 	}
 }
-122zx
