@@ -29,6 +29,6 @@ public class Main {
 	 
 	 public void KOSTA2206()
 	 {
-		 test12
+		 //test12
 	 }
 }
