@@ -6,4 +6,4 @@ public class NewClassNotMy {
 		System.out.println("Hello");
 	}
 }
-zxcxcvzxczxczczxczxczxczxczxczxczxczxczxczxczxczxc
+z
