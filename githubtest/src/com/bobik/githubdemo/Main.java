@@ -13,7 +13,7 @@ public class Main {
 
 	 public String toString()
 	 {
-		 return "Privet Bogdan!";
+		 return "HELLO BOGDAN!!!!!!!!";
 	 }
 	 public void MyFunc(String[] s)
 	 {
