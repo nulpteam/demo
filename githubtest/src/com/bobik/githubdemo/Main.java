@@ -8,7 +8,7 @@ public class Main {
 /** my comment*/
 	 public int getMyInt(int i)
 	 {
-	 	return i;
+	 	return 1;
 	 }
 
 	 public String toString()
